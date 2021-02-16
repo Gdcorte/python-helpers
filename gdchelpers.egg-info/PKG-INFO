@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: gdchelpers
+Version: 0.0.1
+Summary: Python helpers built for generic use
+Home-page: https://github.com/Gdcorte/python-helpers
+Author: Gustavo Diniz da Corte
+Author-email: gustavodacorte@gmail.com
+License: UNKNOWN
+Description: # Objective
+        
+        Provide a set of helpers that can be reused in different projects. THe helpers offer mostly some wrappers over some services. Included but not restricted to MySql databases and AWS integration
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

@@ -1,0 +1,6 @@
+pyproject.toml
+setup.cfg
+gdchelpers.egg-info/PKG-INFO
+gdchelpers.egg-info/SOURCES.txt
+gdchelpers.egg-info/dependency_links.txt
+gdchelpers.egg-info/top_level.txt
